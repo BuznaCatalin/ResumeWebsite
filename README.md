@@ -6,7 +6,7 @@
 * > *main.js*
 * > *style.css*
 
-## Softwares used
+## Software used
 * > *HTML*
 * > *CSS*
 * > *JS*
